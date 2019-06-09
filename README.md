@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The Welcome BOT will allow you to interact easily with GITHUB. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+*find
+*verify
+*fix
 
 ## Getting started
 
